@@ -148,7 +148,6 @@ select {
 }
 ::placeholder {
   font-size: 17px;
-  font-style: italic;
 }
 .todo-input {
   border-radius: 5px;
